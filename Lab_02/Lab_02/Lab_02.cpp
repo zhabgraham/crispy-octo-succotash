@@ -13,7 +13,6 @@ int main()
     double z1; // результат обчислення 1-го виразу
     double z2; // результат обчислення 2-го виразу
     double z3;
-    double z;
 
     cout << "a = "; cin >> a;
 
