@@ -14,7 +14,6 @@ int main()
     double z2; // результат обчислення 2-го виразу
     double z3;
     double z;
-    double z5;
 
     cout << "a = "; cin >> a;
 
